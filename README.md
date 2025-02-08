@@ -12,21 +12,18 @@ ModernSlider: A customizable slider with a modern look and feel.
 ModernButtons: Sleek, customizable, and rounded buttons for a modern UI.
 ModernEntry: A stylish and rounded text input field for a smooth user experience.
 ModernFrames: Clean and modern frames with rounded corners to organize content.
-And much more! 😎
+And much more!
 
 Installation
 You can easily install MTK via pip:
 
-bash
-Copiar
-Editar
+```bash
 pip install moderntkinter
+```
+
 Usage
 Here’s an example of how to use MTK in your Python project:
-
-python
-Copiar
-Editar
+```bash
 import moderntkinter as mtk
 import tkinter as tk
 
@@ -40,6 +37,7 @@ button.pack(pady=20)
 
 # Run the application
 root.mainloop()
+```
 PyPI
 You can find MTK on PyPI and install it via pip:
 
